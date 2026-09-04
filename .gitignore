@@ -1,0 +1,14 @@
+**/.DS_Store
+**/.git/
+**/node_modules/
+**/.next/
+**/.vinext/
+**/.wrangler/
+**/dist/
+**/coverage/
+**/.cache/
+**/*.log
+**/.env
+**/.env.*
+!**/.env.example
+vault/封存/**
