@@ -12,3 +12,4 @@
 **/.env.*
 !**/.env.example
 vault/封存/**
+vault/課程/附件/**
